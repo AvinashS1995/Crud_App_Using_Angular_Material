@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Avinash",
+      "lastName": "Suryawanshi",
+      "email": "abhiya@gmail.com",
+      "dob": "2023-12-26T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Google",
+      "experience": 2,
+      "package": 8,
+      "id": 1
+    },
+    {
+      "firstName": "Ashwini",
+      "lastName": "Suryawanshi",
+      "email": "ash@gmail.com",
+      "dob": "2023-12-13T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "ArtistLife",
+      "experience": 1,
+      "package": 9,
+      "id": 2
+    },
+    {
+      "firstName": "Maroti",
+      "lastName": "Jadhav",
+      "email": "mj@gmail.com",
+      "dob": "2023-12-27T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Jadhav Builder",
+      "experience": 7,
+      "package": 25,
+      "id": 3
+    },
+    {
+      "firstName": "Kapil",
+      "lastName": "Ingale",
+      "email": "kapil@gmail.com",
+      "dob": "2023-12-30T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Kiya AI",
+      "experience": 4,
+      "package": 8.5,
+      "id": 4
+    },
+    {
+      "firstName": "Sarika",
+      "lastName": "Rakshasmare",
+      "email": "sarika@gmail.com",
+      "dob": "2023-12-06T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Kiya AI",
+      "experience": 2,
+      "package": 7.5,
+      "id": 5
+    },
+    {
+      "firstName": "Ashwini",
+      "lastName": "Sawale",
+      "email": "ash23@gmail.com",
+      "dob": "2023-11-01T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "Govt Job",
+      "experience": 3,
+      "package": 22,
+      "id": 6
+    }
+  ]
+}
